@@ -18,7 +18,7 @@
     {
       "binding": "DB",
       "database_name": "formforge-db",
-      "database_id": "12345678-abcd-1234-abcd-123456789abc",
+      "database_id": "",
       "migrations_dir": "migrations"
     }
   ],

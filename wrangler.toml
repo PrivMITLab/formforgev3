@@ -1,4 +1,4 @@
-name = "formforgev3"
+name = "formforgev1"
 main = ".open-next/worker.js"
 compatibility_date = "2026-07-06"
 compatibility_flags = ["nodejs_compat"]
@@ -16,7 +16,7 @@ APP_NAME = "FormForge"
 [[d1_databases]]
 binding = "DB"
 database_name = "formforge-db"
-database_id = "64c32599-39d6-4256-b1b3-b9ee2c619da3"
+database_id = ""
 migrations_dir = "migrations"
 
 [build]
